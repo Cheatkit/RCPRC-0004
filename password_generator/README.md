@@ -37,4 +37,4 @@ This script generates strong, random passwords and provides options to save them
 
 ## License
 
-This script inherits the liscence of the RCPRC organization [LISCENCE](https://github.com/RCPRC/.github/blob/main/LICENSE).
+This script inherits the liscence of the RCPRC organization [GNU Affero General Public License v3.0](https://github.com/RCPRC/.github/blob/main/LICENSE).
